@@ -60,13 +60,5 @@ The goal is to predict housing values based on various features and investigate 
 
 ---
 
-## 🚀 Next Steps
 
-- Experiment with different **regularization strengths (alpha values)** for Ridge and Lasso.  
-- Explore **alternative feature selection methods** (e.g., Recursive Feature Elimination, PCA).  
-- Apply **other regression algorithms** (e.g., ElasticNet, Decision Tree Regressor, Random Forest Regressor).  
-
----
-
-## 📂 Project Structure
 
